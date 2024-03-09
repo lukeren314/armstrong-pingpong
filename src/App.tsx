@@ -7,7 +7,6 @@ import {
   Group,
   Loader,
   NumberInput,
-  Skeleton,
   Stack,
   Table,
   Text,

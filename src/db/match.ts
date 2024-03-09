@@ -7,7 +7,7 @@ import {
   orderBy,
 } from "firebase/firestore";
 import { type Match } from "./types";
-import { convertPlayer, getPlayer, updatePlayerPoints } from "./player";
+import { getPlayer, updatePlayerPoints } from "./player";
 const K_FACTOR = 32;
 const MAX_SCORE = 11;
 
